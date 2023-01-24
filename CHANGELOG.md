@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.6.0](https://github.com/googleapis/google-cloudevents-java/compare/v0.5.0...v0.6.0) (2023-01-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* Generate library from protobufs ([#121](https://github.com/googleapis/google-cloudevents-java/issues/121))
+
+### Features
+
+* Generate library from protobufs ([#121](https://github.com/googleapis/google-cloudevents-java/issues/121)) ([f6804d1](https://github.com/googleapis/google-cloudevents-java/commit/f6804d1d9e676bb13d8ba9337cdb3eff540990d2))
+
 ## [0.5.0](https://www.github.com/googleapis/google-cloudevents-java/compare/v0.4.0...v0.5.0) (2021-10-16)
 
 
